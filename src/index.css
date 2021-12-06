@@ -1,0 +1,24 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+body {
+  
+  background-image: url("https://cdn.eldoce.tv/sites/default/files/styles/site_nota_slider_contenido/public/nota/2017/12/20/centro-civico-ok.jpg?itok=T6mWO_E8");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  
+
+  align-items: center;
+ 
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
